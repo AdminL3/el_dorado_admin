@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "188548708194",
+    "project_id": "el-dorado-game",
+    "storage_bucket": "el-dorado-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188548708194:android:e74ed1bf114beb9f765e3b",
+        "android_client_info": {
+          "package_name": "com.example.el_dorado_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188548708194-5oje2angsod36mhjuqpe57v3fqj5r87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmI3l06tA85EdkFJdtQV86tbdjjnhK35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188548708194-5oje2angsod36mhjuqpe57v3fqj5r87a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188548708194-cqjlc1n22nfok3snheld8vvodjtbrtc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elDoradoShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188548708194:android:c48bcb6f7383ff0b765e3b",
+        "android_client_info": {
+          "package_name": "com.example.el_dorado_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188548708194-5oje2angsod36mhjuqpe57v3fqj5r87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmI3l06tA85EdkFJdtQV86tbdjjnhK35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188548708194-5oje2angsod36mhjuqpe57v3fqj5r87a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188548708194-cqjlc1n22nfok3snheld8vvodjtbrtc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elDoradoShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
